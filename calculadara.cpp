@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
 
-    cout << "Hola mund!!!.";
+    cout << "Hola clase!!!.";
 
     return 0;
 }
