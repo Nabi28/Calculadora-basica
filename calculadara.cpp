@@ -14,7 +14,8 @@ int main()
 {
 saludo();
     cout << "Hola clase !!" << endl;
-    cout << "La suma de 1 y 2 es " << suma(1, 2) << "!!";
+    cout << "La suma de 1 y 2 es " << suma(1, 2) << "!!" << endl;
+    cout << "Gracias.!!";
 
     return 0;
 }
